@@ -1,0 +1,29 @@
+
+.navilink {
+    background: rgb(214, 173, 233);
+    width: 40px;
+    padding: 5px;
+    border: 0;
+    display: inline-block;
+    text-decoration: none;
+}
+/* .page {
+    background:lightgreen;
+    display:ruby;
+} */
+
+/* background-color: rgb(157, 112, 204);
+display: inline-bloblock;
+text-align: center;
+box-sizing: border-box;
+margin: 10px;   */
+/* h2, p {
+    display: inline-block;
+    
+    
+    float: left;
+    
+    
+    padding: 10px;
+    color: rgb(250, 250, 250);*/
+}
