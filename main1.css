@@ -1,11 +1,33 @@
 
-.navilink {
+.nav-link {
     background: rgb(214, 173, 233);
-    width: 40px;
+    width: 33.33%;
     padding: 5px;
     border: 0;
     display: inline-block;
     text-decoration: none;
+    /* box-sizing: border-box; */
+    margin: 20px,0;
+    text-align: center;
+    font-size: 16px;
+}
+.nav {
+    font-size: 0;
+    text-align: center;
+    overflow: auto;
+    width: 100%;
+    padding: 20px;
+    background-color: black;
+}
+.content-block{
+    background: rgb(168, 247, 77);
+    border: 0;
+    display: inline-block;
+    float: left;
+    text-decoration: none;
+    /* box-sizing: border-box; */
+    margin: 20px,0;
+    font-size: 16px;
 }
 /* .page {
     background:lightgreen;
