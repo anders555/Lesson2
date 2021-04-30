@@ -1,4 +1,9 @@
-
+.title, .subtitle {
+  background: rgb(214, 173, 233);       
+/*     display: inline-block; */
+    box-sizing: border-box;
+    text-align: center;
+}
 .nav-link {
     background: rgb(214, 173, 233);
     width: 33.33%;
@@ -6,12 +11,13 @@
     border: 0;
     display: inline-block;
     text-decoration: none;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     margin: 20px,0;
     text-align: center;
     font-size: 16px;
 }
-.nav {
+
+nav {
     font-size: 0;
     text-align: center;
     overflow: auto;
@@ -20,14 +26,12 @@
     background-color: black;
 }
 .content-block{
-    background: rgb(168, 247, 77);
-    border: 0;
+    background: rgb(214, 173, 233);         width: 30.33%;
+    padding: 5px;
+    border: 5px;
     display: inline-block;
-    float: left;
-    text-decoration: none;
-    /* box-sizing: border-box; */
-    margin: 20px,0;
-    font-size: 16px;
+/*     box-sizing: border-box; */
+    text-align: center;
 }
 /* .page {
     background:lightgreen;
